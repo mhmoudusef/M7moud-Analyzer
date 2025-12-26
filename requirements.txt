@@ -3,5 +3,5 @@ pandas
 openpyxl
 matplotlib
 pytesseract
-opencv-python
+opencv-python-headless
 numpy
